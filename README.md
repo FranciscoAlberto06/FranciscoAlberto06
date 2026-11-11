@@ -34,6 +34,8 @@ App de minijuegos para Android y escritorio, con modo online y offline, cuentas 
             │
             ▼
  MySQL en Aiven
+
+**[Ver el repositorio](https://github.com/FranciscoAlberto06/FrivGame_Minijuegos_FAFA_APP)**
 ```
 ## Mi portfolio
 
@@ -43,3 +45,5 @@ Lo construí como un editor de código, con explorador de archivos y una termina
 
 - [LinkedIn](https://www.linkedin.com/in/francisco-alberto-fernandez-alcantara)
 - [Portfolio](https://franciscoalberto06.github.io)
+- [Email]    --> francisfdez591@gmail.com
+- [Telefono] --> +34 635 33 73 03 
