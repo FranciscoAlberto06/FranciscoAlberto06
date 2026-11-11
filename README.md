@@ -9,9 +9,9 @@ Backend con ASP.NET Core y APIs REST, y aplicaciones multiplataforma con .NET MA
 Hablo español (nativo) e inglés (A2).
 </p>
 
-<a href="https://www.linkedin.com/in/francisco-alberto-fernandez-alcantara" target="_blank" rel="noopener noreferrer"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
-<a href="https://franciscoalberto06.github.io" target="_blank" rel="noopener noreferrer"><img src="assets/btn-portfolio.svg" alt="Portfolio web" height="46"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=francisfdez591@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
+<a href="https://www.linkedin.com/in/francisco-alberto-fernandez-alcantara"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
+<a href="https://franciscoalberto06.github.io"><img src="assets/btn-portfolio.svg" alt="Portfolio web" height="46"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=francisfdez591@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
 
 </div>
 
