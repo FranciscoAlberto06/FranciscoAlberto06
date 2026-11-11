@@ -21,8 +21,20 @@ Desarrollador francisco = new()
 
 ## Proyecto destacado
 
-**[FrivGame](https://github.com/FranciscoAlberto06/FrivGame_Minijuegos_FAFA_APP)**: app de minijuegos para Android y escritorio, con ranking en tiempo real. API REST con ASP.NET Core, cliente en .NET MAUI, SignalR y MySQL.
+## FrivGame
 
+App de minijuegos para Android y escritorio, con modo online y offline, cuentas de usuario, niveles, logros y ranking en tiempo real. Fue mi proyecto final de grado y lo diseñé de principio a fin: cliente, API y base de datos funcionando en producción.
+
+```text
+ .NET MAUI (Android / Escritorio)
+            │  HTTPS · JSON
+            ▼
+ API REST · ASP.NET Core ───► SignalR (ranking en tiempo real)
+   desplegada en Railway
+            │
+            ▼
+ MySQL en Aiven
+```
 ## Mi portfolio
 
 Lo construí como un editor de código, con explorador de archivos y una terminal que funciona: [franciscoalberto06.github.io](https://franciscoalberto06.github.io). Realizado mediante Blazor.
